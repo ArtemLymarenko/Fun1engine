@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fun1engine
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning |C plus plus...|
+- 🌱 I’m currently learning - JavaScript, React, Express js and Nest.
 
 
 <!---
